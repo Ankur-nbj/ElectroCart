@@ -1,6 +1,7 @@
 # ElectroCart
 
-<img width="946" alt="Screenshot 2023-09-12 200721" src="https://github.com/Ankur-nbj/ElectroCart/assets/108694248/cbf16288-a29c-4059-bd37-e172112b160c">
+<img width="946" alt="Screenshot 2023-09-12 200721" src="https://github.com/Ankur-nbj/ElectroCart/assets/108694248/7de35a43-abd7-4b8b-a34b-099689a85e83">
+
 
 <img width="941" alt="Screenshot 2023-09-12 200744" src="https://github.com/Ankur-nbj/ElectroCart/assets/108694248/7a909c1b-4ec3-43c3-b451-a788f62cef17">
 
