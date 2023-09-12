@@ -7,7 +7,7 @@ import productRoutes from "./routes/productRoutes.js";
 import cors from "cors";
 import mongoose from "mongoose";
 import path from "path";
-import { fileURL ToPath } from 'url';
+import { fileURLToPath } from 'url';
 dotenv.config();
 
 const DB = process.env.MONGO_URL;
