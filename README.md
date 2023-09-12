@@ -1,8 +1,10 @@
 # ElectroCart
 
-<img width="946" alt="Screenshot 2023-09-12 200721" src="https://github.com/Ankur-nbj/electronics-frontend/assets/108694248/459242a8-7191-4a82-a0f2-95c3da0bdf61">
+<img width="946" alt="Screenshot 2023-09-12 200721" src="https://github.com/Ankur-nbj/ElectroCart/assets/108694248/cbf16288-a29c-4059-bd37-e172112b160c">
 
-<img width="941" alt="Screenshot 2023-09-12 200744" src="https://github.com/Ankur-nbj/electronics-frontend/assets/108694248/c8ee8608-5001-44f0-a765-0a0d15d63ccf">
+<img width="941" alt="Screenshot 2023-09-12 200744" src="https://github.com/Ankur-nbj/ElectroCart/assets/108694248/7a909c1b-4ec3-43c3-b451-a788f62cef17">
+
+
 
 
 Welcome to our ElectroCart for buying laptops and mobile devices. This README file will provide you with all the necessary information to get started with our platform.
