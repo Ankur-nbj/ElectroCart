@@ -7,6 +7,7 @@ import productRoutes from "./routes/productRoutes.js";
 import cors from "cors";
 import mongoose from "mongoose";
 import path from "path";
+import { fileURL ToPath } from 'url';
 dotenv.config();
 
 const DB = process.env.MONGO_URL;
@@ -18,12 +19,13 @@ mongoose
   .catch((err) => {
     console.log("MongoDB not  connected");
   });
-
+const __filename= fileURLToPath(import.meta.url); 
+const __dirname = path.dirname(__filename);
 const app = express();
 app.use(express.json());
 app.use(morgan("dev"));
 app.use(cors());
-app.use(express.static(path.join(--dirname,'./client/build')))
+app.use(express.static(path.join(__dirname,'./client/build')))
 const PORT = process.env.PORT;
 
 app.use("/api/v1/auth", authRoutes);
