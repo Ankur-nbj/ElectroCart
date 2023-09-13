@@ -23,7 +23,7 @@ Welcome to our ElectroCart for buying laptops and mobile devices. This README fi
 
 Our  website is a platform designed to make it easy for users to purchase laptops and mobile devices online. It offers a wide range of products, a user-friendly shopping experience, and secure payment options. Here's what you need to know:
 
-- **Website URL**: [(https://electrocart.onrender.com/)](https://electrocart.onrender.com/)
+- **Website URL**: [(https://electrocart.onrender.com/)](https://electrocart.cyclic.app/)
 
 ## 2. Features
 
@@ -43,13 +43,8 @@ To get started with our MERN eCommerce ("ElectroCart") website, follow these ste
 
 1. **Clone the Repository**:
 
-   For backend
-   ```bash
-   git clone https://github.com/Ankur-nbj/electronics-backend.git
-   ```
-  For frontend
   ```bash
-   git clone https://github.com/Ankur-nbj/electronics-frontend.git
+   git clone https://github.com/Ankur-nbj/Electrocart.git
    ```
 2. **Install Dependencies**:
 
@@ -63,11 +58,7 @@ To get started with our MERN eCommerce ("ElectroCart") website, follow these ste
 
 4. **Run the Application**:
 
-   Run Backend-
-   ```bash
-   node server.js
-   ```
-   Run frontend-
+
    ```bash
    npm start
    ```
